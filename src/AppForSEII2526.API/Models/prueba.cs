@@ -2,6 +2,6 @@
 {
     public class prueba
     {
-        //hola estoy haciendo el seminario de GIT hjkhjhjghjgmhgvhgvhgv
+        //hola estoy haciendo el seminario de GIT
     }
 }
